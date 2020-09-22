@@ -1,0 +1,15 @@
+
+
+http://ffmpeg.mplayerhq.hu/ - FFmpeg homepage
+
+http://ffmpeg.mplayerhq.hu/general.html - list of supported formats
+
+http://en.wikipedia.org/wiki/FFmpeg - WIKI
+
+http://ffdshow.faireal.net/mirror/ffmpeg/ - win32 releases
+
+http://sourceforge.net/projects/ffmpeg/ - sourceforge
+
+http://planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=70570&lngWId=1 - Vb6 FFmpeg Wrapper Example
+
+http://www.webmproject.org/ - WebM Project
